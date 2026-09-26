@@ -1,5 +1,7 @@
 # django-admin-sortable2
 
+Fork of the original
+
 This Django package adds functionality for generic drag-and-drop ordering of items in the List, the Stacked- and the
 Tabular-Inlines Views of the Django Admin interface.
 
